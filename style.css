@@ -742,6 +742,13 @@ padding: 60px 0;
   margin: 10px 0;
 
 }
+.article_link {
+  text-decoration: none;
+  color: green;
+}
+.article_link:hover {
+  color: blue;
+}
 @media (max-width:700px) {
   .sub-header h1{
     font-size: 24px;
@@ -846,3 +853,5 @@ h3{
   }
 
 }
+
+

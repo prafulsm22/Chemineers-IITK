@@ -23,7 +23,15 @@ nav{
     align-items: center;
 }
 nav img{
-  width: 85px;
+  width: 75px;
+}
+@media(max-width:400px){
+  
+  nav img{
+  width: 65px;
+}
+  
+  
 }
 .nav-links{
   flex: 1;

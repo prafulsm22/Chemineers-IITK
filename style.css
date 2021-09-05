@@ -811,55 +811,5 @@ margin-bottom: 40px;
 }
 
 /* SIMUTECH */
-.first{
-  padding-top: 100px;
-
-}
-.simutech{
-  width: 80%;
-  margin:auto;
-  text-align: center;
-}
-
-h1{
-  font-size: 36px;
-  font-weight: 600;
-}
-p{
-  color: #777;
-  font-size: 14px;
-  font-weight: 300;
-  line-height: 22px;
-  padding: 10px;
-}
-
-.row{
-  margin-top: 5%;
-  display: flex;
-  justify-content: space-between;
-}
-
-.simutech-col{
-  flex-basis: 30%;
-  background: #CFDAC8;
-  border-radius: 10px;
- margin-bottom: 5%;
-  padding: 20px 15px;
-  box-sizing: border-box;
-}
-h3{
-  text-align: center;
-  font-weight: 600;
-  margin: 10px 0;
-}
-.simutech-col:hover{
-  box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.2);
-}
-@media (max-width: 700px) {
-  .row{
-    flex-direction: column;
-  }
-
-}
-
+/* Style is in html file only */
 

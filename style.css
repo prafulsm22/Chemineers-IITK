@@ -210,13 +210,14 @@ h3{
   font-size: 50px;
 }
 .campus-col{
-  flex-basis: 32%;
+  flex-basis: 27%;
   border-radius: 10px;
   margin-bottom: 30px;
   position: relative;
   overflow: hidden;
-  margin-left: 40px;
-  margin-right: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+  box-sizing: border-box;
 }
 .campus-col img{
   width: 100%;
